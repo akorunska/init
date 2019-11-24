@@ -1,0 +1,3 @@
+ifconfig | grep "en1"
+
+# the networksetup -listnetworkserviceorder will let us know, that wifi if en1 device

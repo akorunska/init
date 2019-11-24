@@ -1,0 +1,3 @@
+# VM / Machine / Settings / Network / Advanced / Port Forwarding
+# map host port 2222 to 22 guest
+ssh -p2222 anna@127.0.0.1

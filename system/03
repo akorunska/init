@@ -1,0 +1,2 @@
+# /etc/hostname file contains 'debian'
+# to change the hostname, rewrite /etc/hostname file with the new name and restart the system
